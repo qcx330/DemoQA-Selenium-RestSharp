@@ -1,0 +1,32 @@
+{
+    "StudentAllFields": {
+        "FirstName": "FNUser",
+        "LastName": "LNUser",
+        "Email": "testuser@example.com",
+        "Gender": "Male",
+        "Mobile": "0999444666",
+        "DateOfBirth": "8-October-2002",
+        "Subjects": [
+            {
+                "Name": "Maths"
+            },
+            {
+                "Name": "Computer Science"
+            }
+        ],
+        "Hobbies": [
+            "Sports",
+            "Music"
+        ],
+        "Picture": "Image\\test.jpg",
+        "CurrentAddress": "123 quan cam",
+        "State": "Haryana",
+        "City": "Panipat"
+    },
+    "StudentMandatoryFields":{
+        "FirstName": "FNUser",
+        "LastName": "LNUser",
+        "Gender": "Male",
+        "Mobile": "0999444666"
+    }
+}
